@@ -24,6 +24,7 @@
     "measure area",
     "measure"
   ],
+  "main": "dist/gmaps-measuretool.umd.js",
   "author": "Zhenyang Hua",
   "license": "Apache-2.0",
   "bugs": {
